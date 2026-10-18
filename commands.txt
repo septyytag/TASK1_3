@@ -1,0 +1,17 @@
+ bash create_passwords.sh*
+ cd passwords.txt
+ cat passwords.txt
+ git status
+echo "passwords.txt" > .gitignore
+ls -a
+git status
+ls
+git add 
+ git commit -m "добавил .gitignore commands.txt"
+git push
+git remote -v
+git remote rename origin fork
+git remote -v
+git remote add origin https://github.com/septyytag/TASK1_3.git
+git remote -v
+s
